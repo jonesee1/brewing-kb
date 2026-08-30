@@ -4,5 +4,6 @@
 
 ## Original Resources
 
-[[./index |Reds & Ambers Main Page]]
+[[reds-ambers/index |Reds & Ambers Main Page]]
+
 

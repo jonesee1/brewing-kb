@@ -4,5 +4,6 @@
 
 ## Original Resources
 
-[[./index |Lagers Main Page]]
+[[lagers/index |Lagers Main Page]]
+
 

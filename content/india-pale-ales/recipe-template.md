@@ -4,5 +4,6 @@
 
 ## Original Resources
 
-[[./index |India Pale Ales Main Page]]
+[[india-pale-ales/index |India Pale Ales Main Page]]
+
 

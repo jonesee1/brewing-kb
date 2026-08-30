@@ -4,6 +4,7 @@
 
 ## Original Resources
 
-[[./index |Stouts Main Page]]
+[[stouts/index |Stouts Main Page]]
+
 
 

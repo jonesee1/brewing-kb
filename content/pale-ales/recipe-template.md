@@ -4,5 +4,6 @@
 
 ## Original Resources
 
-[[./index |Pale Ales Main Page]]
+[[pale-ales/index |Pale Ales Main Page]]
+
 
