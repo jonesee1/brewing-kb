@@ -9,9 +9,9 @@ This site contains information about the basic process of brewing beer, informat
 [TODO: add content]: #
 ## Main Categories - Styles
 
-**- [[hefeweizens/index|Hefeweizens]]**
-**- [[india-pale-ales/index|India Pale Ales]]**
-**- [[lagers/index|Lagers]]**
-**- [[pale-ales/index|Pale Ales]]**
-**- [[reds-ambers/index|Reds & Ambers]]**
-**- [[stouts/index|Stouts]]**
+- [[hefeweizens/index|Hefeweizens]]
+- [[india-pale-ales/index|India Pale Ales]]
+- [[lagers/index|Lagers]]
+- [[pale-ales/index|Pale Ales]]
+- [[reds-ambers/index|Reds & Ambers]]
+- [[stouts/index|Stouts]]
