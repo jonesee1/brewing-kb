@@ -8,4 +8,6 @@ title: General Lager Information
 ## Recipes
 
 [[../index |Knowledgebase Main Page]]
+## Related Styles
+[[reds-ambers/index|Reds and Ambers]]
 

@@ -9,3 +9,7 @@ title: General India Pale Ale (IPA) Information
 
 [[../index |Knowledgebase Main Page]]
 
+## Related Styles
+[[pale-ales/index|IPAs and Pale Ales share many characterstics]]
+
+

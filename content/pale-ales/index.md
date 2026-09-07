@@ -8,3 +8,7 @@ title: General Pale Ale Information
 ## Recipes
 
 [[../index |Knowledgebase Main Page]]
+
+## Related Styles
+[[india-pale-ales/index|Pale Ales and IPAs are very similar]]
+
