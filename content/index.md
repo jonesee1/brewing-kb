@@ -15,3 +15,7 @@ This site contains information about the basic process of brewing beer, informat
 - [[pale-ales/index|Pale Ales]]
 - [[reds-ambers/index|Reds & Ambers]]
 - [[stouts/index|Stouts]]
+
+## More Information
+Handbook of Homebrewing
+![[handbook-brewing.pdf]]
