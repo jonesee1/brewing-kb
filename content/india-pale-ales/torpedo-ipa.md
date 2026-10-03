@@ -11,15 +11,18 @@ Torpedo IPA is made by Sierra Nevada brewing company and is a very popular comme
 | 0.25 oz | [Crystal](https://www.brewersfriend.com/hops/crystal/)                                                       |      | Pellet | 4.3 | Boil    | 5 min  | 0.77  | 7.1%   |
 | 0.50 oz | [Citra](https://www.brewersfriend.com/hops/citra/)                                                           |      | Pellet | 11  | Dry Hop | 7 days |       | 14.3%  |
 | 0.50 oz | [Crystal](https://www.brewersfriend.com/hops/crystal/)                                                       |      | Pellet | 4.3 | Dry Hop | 7 days |       | 14.3%  |
-| Amount  | Fermentable                                                                                                  | Cost | PPG    | °L  | Bill %  |        |       |        |
-| 10 lb   | [American - Pale 2-Row](https://www.brewersfriend.com/fermentables/us-pale-2-row/)                           |      | 37     | 1.8 | 87%     |        |       |        |
-| 8 oz    | [American - Caramel / Crystal 40L](https://www.brewersfriend.com/fermentables/american-caramel-crystal-40l/) |      | 34     | 40  | 4.3%    |        |       |        |
-| 8 oz    | [American - Caramel / Crystal 20L](https://www.brewersfriend.com/fermentables/american-caramel-crystal-20l/) |      | 35     | 20  | 4.3%    |        |       |        |
-| 8 oz    | [German - CaraFoam](https://www.brewersfriend.com/fermentables/german-carafoam/)                             |      | 37     | 1.8 | 4.3%    |        |       |        |
+## Grain
+| Amount | Fermentable                                                                                                  | Cost | PPG | °L  | Bill % |
+| ------ | ------------------------------------------------------------------------------------------------------------ | ---- | --- | --- | ------ |
+| 10 lb  | [American - Pale 2-Row](https://www.brewersfriend.com/fermentables/us-pale-2-row/)                           |      | 37  | 1.8 | 87%    |
+| 8 oz   | [American - Caramel / Crystal 40L](https://www.brewersfriend.com/fermentables/american-caramel-crystal-40l/) |      | 34  | 40  | 4.3%   |
+| 8 oz   | [American - Caramel / Crystal 20L](https://www.brewersfriend.com/fermentables/american-caramel-crystal-20l/) |      | 35  | 20  | 4.3%   |
+| 8 oz   | [German - CaraFoam](https://www.brewersfriend.com/fermentables/german-carafoam/)                             |      | 37  | 1.8 | 4.3%   |
+## Yeast
 [White Labs - California Ale Yeast WLP001](https://www.brewersfriend.com/yeasts/white-labs-california-ale-yeast-wlp001/)
-## Process
 
 ## Original Resources
+https://www.brewersfriend.com/homebrew/recipe/view/419660/stone-ipa-clone
 
 [[india-pale-ales/index |IPA Main Page]]
 
